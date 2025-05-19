@@ -19,5 +19,6 @@ app.get('/inde',(req,res)=>{
     res.send("Server On")
 })
 
-//EXPORTACION A LA INSTANCIA DE LA APP
+
+//EXPORTACION A LA INSTANCIA DE LA APPs
 export default app
